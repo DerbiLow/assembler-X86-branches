@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LABA 1 assembler", "LABA 1 assembler\LABA 1 assembler.vcxproj", "{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Debug|x64.ActiveCfg = Debug|x64
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Debug|x64.Build.0 = Debug|x64
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Debug|x86.Build.0 = Debug|Win32
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Release|x64.ActiveCfg = Release|x64
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Release|x64.Build.0 = Release|x64
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Release|x86.ActiveCfg = Release|Win32
+		{72C84E05-8F49-448A-9C5E-DE2A915E6A1F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A338083C-7AD6-481C-9267-0D647016CB72}
+	EndGlobalSection
+EndGlobal
